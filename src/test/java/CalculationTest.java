@@ -2,6 +2,8 @@ import org.junit.Test;
 
 public class CalculationTest {
 
+    //This is calculation test
+
     @Test
     public void calcTest() {
         Calculator calculator = new Calculator();
